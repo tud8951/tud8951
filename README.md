@@ -2,15 +2,15 @@
 
 这些项目主要是我为了**解决个人遇到的痛点和问题**而开发的，现在分享出来，希望能够**帮助到有同样需求**的朋友们！😊
 
-_These projects are developed to solve personal pain points and problems. Now sharing them to help friends with similar needs!_
+_이 프로젝트들은 개인의 고민과 문제를 해결하기 위해 개발되었습니다. 이제 비슷한 어려움을 겪는 친구들을 위해 이 프로젝트들을 공유해 보세요!_
 
 <div align="center">
 
 ⭐ **你的 Star 是我最大的动力** ⭐  
-_Your Star is my greatest motivation_
+_あなたの星は私の最大のモチベーションです_
 
 💪 **你的支持对我来说非常重要** 💪  
-_Your support means a lot to me_
+_Sự ủng hộ của bạn có ý nghĩa rất lớn đối với tôi_
 
 🔥 **感谢每一位关注和支持的朋友！** 🔥  
 _Thanks to every friend who follows and supports!_
