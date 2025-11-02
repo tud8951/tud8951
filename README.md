@@ -23,15 +23,5 @@ _Thanks to every friend who follows and supports!_
 
 ![](https://osu-sig.vercel.app/card?user=CNBigJackson&mode=std&animation=true)
 
-<div align="center">
-
-<details>
-<summary><strong>🔽 点击展开 - BigJackson博客</strong></summary>
-
-<br>
-
-[BigJackson Blog](https://bigjackson.top)
-
-</details>
-
-</div>
+1. [BigJackson Blog](https://bigjackson.top)
+2. [BigJackson Blog](https://bigjackson.vip)
