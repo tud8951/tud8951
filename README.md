@@ -21,10 +21,7 @@ _Thanks to every friend who follows and supports!_
 
 本账号专门用来维护开源项目。如果你也对开源感兴趣，欢迎加入我的[电报频道](https://t.me/cnbigjackson)，一起交流。
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tud8951/tud8951/output/github-contribution-grid-snake-dark.svg">
- <img src="https://raw.githubusercontent.com/tud8951/tud8951/output/github-contribution-grid-snake.svg">
-</picture>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome to my GitHub!&center=true&size=27"> </a> </h1>
 
 1. [BigJackson Blog](https://bigjackson.top)
 2. [BigJackson Blog](https://bigjackson.vip)
