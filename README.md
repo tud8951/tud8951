@@ -21,7 +21,7 @@ _Thanks to every friend who follows and supports!_
 
 本账号专门用来维护开源项目。如果你也对开源感兴趣，欢迎加入我的[电报频道](https://t.me/cnbigjackson)，一起交流。
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome to my GitHub!&center=true&size=27"> </a> </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 1. [BigJackson Blog](https://bigjackson.top)
 2. [BigJackson Blog](https://bigjackson.vip)
