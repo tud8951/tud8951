@@ -21,7 +21,7 @@ _Thanks to every friend who follows and supports!_
 
 本账号专门用来维护开源项目。如果你也对开源感兴趣，欢迎加入我的[电报频道](https://t.me/cnbigjackson)，一起交流。
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-1. [![Static Badge](https://img.shields.io/badge/BigJackson-Blog-white)](https://www.bigjackson.top)
-2. [![Static Badge](https://img.shields.io/badge/BigJackson-Company-blue)](https://www.bigjackson.vip)
+[![Static Badge](https://img.shields.io/badge/BigJackson-Blog-white)](https://www.bigjackson.top)
+[![Static Badge](https://img.shields.io/badge/BigJackson-Company-blue)](https://www.bigjackson.vip)
