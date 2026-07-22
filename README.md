@@ -21,7 +21,10 @@ _Thanks to every friend who follows and supports!_
 
 本账号专门用来维护开源项目。如果你也对开源感兴趣，欢迎加入我的[电报频道](https://t.me/cnbigjackson)，一起交流。
 
-![](https://osu-sig.vercel.app/card?user=CNBigJackson&mode=std&animation=true)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tud8951/tud8951/output/github-contribution-grid-snake-dark.svg">
+ <img src="https://raw.githubusercontent.com/tud8951/tud8951/output/github-contribution-grid-snake.svg">
+</picture>
 
 1. [BigJackson Blog](https://bigjackson.top)
 2. [BigJackson Blog](https://bigjackson.vip)
