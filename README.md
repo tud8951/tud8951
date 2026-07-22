@@ -23,5 +23,5 @@ _Thanks to every friend who follows and supports!_
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-1. [BigJackson Blog](https://bigjackson.top) [![Static Badge](https://img.shields.io/badge/BigJackson-Blog-white)](https://img.shields.io/badge/BigJackson-Blog-white)
-2. [BigJackson Company](https://bigjackson.vip)
+1. [![Static Badge](https://img.shields.io/badge/BigJackson-Blog-white)](https://www.bigjackson.top)
+2. [![Static Badge](https://img.shields.io/badge/BigJackson-Company-blue)](https://www.bigjackson.vip)
